@@ -1,0 +1,4 @@
+.DS_Store
+.gstack/
+.env
+.env.local
